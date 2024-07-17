@@ -21,7 +21,7 @@ This project is a simple coffee machine program written in Python. The coffee ma
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/coffeemachine.git
+    git clone https://github.com/songahariprasad/Coffee-Machine.git
     ```
 
 2. Navigate to the project directory:
